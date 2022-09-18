@@ -1,0 +1,7 @@
+Ver los catálogos de técnicas de refactorización:
+
+
+https://refactoring.com/catalog/
+
+
+https://refactoring.guru/refactoring/catalog

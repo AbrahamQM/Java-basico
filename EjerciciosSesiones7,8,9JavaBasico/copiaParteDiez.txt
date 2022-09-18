@@ -1,0 +1,6 @@
+Texto dentro de parteDiez.txt
+ Copywrite:2021
+ 2º Apellido: Medina
+ 1º Apellido: Apeles
+ Nombre Creador: Pepito
+ fecha: 13/11/2021
